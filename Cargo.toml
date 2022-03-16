@@ -4,4 +4,5 @@ members = [
     "08-higher-or-lower",
     "09-check-roster",
     "11-sum-boxes",
+    "12-display-trait",
 ]
