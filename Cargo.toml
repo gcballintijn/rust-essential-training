@@ -1,8 +1,15 @@
 [workspace]
 
 members = [
+    "02-average",
+    "04-convert-temperature",
+    "05-max-min-mean",
+    "07-trim-spaces",
     "08-higher-or-lower",
     "09-check-roster",
     "11-sum-boxes",
     "12-display-trait",
+    "14-location",
+    "15-handle-errors",
+    "16-count-words",
 ]
